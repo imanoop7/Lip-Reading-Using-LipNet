@@ -1,2 +1,2 @@
-# Lip Reading Using YOLO
+# Lip Reading Using LipNet
  
